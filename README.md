@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi there
+![](https://tenor.com/view/brain-big-brain-meme-gif-27667677)
 
 <!--
 **AnAs101AlAa/AnAs101AlAa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
