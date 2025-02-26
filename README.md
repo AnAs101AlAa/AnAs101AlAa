@@ -7,4 +7,4 @@
 </ul>
 <hr/>
 <h2>frameworks</h2>
-<img src="https://dev.to/egfx/react-js-gif-starter-kit-306c" width="10" height="10"/>
+<img src="https://dev.to/egfx/react-js-gif-starter-kit-306c" width="40" height="40"/>
