@@ -7,4 +7,4 @@
 </ul>
 <hr/>
 <h2>frameworks</h2>
-<img src="https://cdn.dribbble.com/userupload/25458874/file/original-62d7e1bdcec685e36b54f89e3ab6f401.gif" width="500">
+<img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvctgguy9jig4h23gz481.gif" width="20">
