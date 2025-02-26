@@ -7,6 +7,4 @@
 </ul>
 <hr/>
 <h2>frameworks</h2>
-<video class="media__video" preload="none" loop="loop" muted="" autoplay="" playsinline="" width="20" height="20">
-    <source src="https://i.makeagif.com/media/11-21-2022/imisbt.mp4" type="video/mp4">
-</video>
+<img src="https://dribbble.com/shots/8699490-React-Logo-Animation" width="20" height="20"/>
