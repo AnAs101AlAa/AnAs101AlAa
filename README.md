@@ -1,6 +1,5 @@
 ## hi there
-![fsd](https://tenor.com/view/brain-big-brain-meme-gif-27667677.gif)
-
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 <!--
 **AnAs101AlAa/AnAs101AlAa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
