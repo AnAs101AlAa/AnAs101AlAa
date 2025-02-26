@@ -7,4 +7,4 @@
 </ul>
 <hr/>
 <h2>frameworks</h2>
-<img src="https://your-image-url.com/image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*UOcMh43IDlvj6_cXkETQ4Q.gif" width="20" height="20">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UOcMh43IDlvj6_cXkETQ4Q.gif" width="20" height="20">
